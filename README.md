@@ -16,3 +16,4 @@ Using Sentinels satellite data, we will detect green areas (less urbanized) and 
 
 
 
+![](files/result.png)
