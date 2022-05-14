@@ -1,2 +1,4 @@
-# TeamPistacchio
+# Runigo APP
 Team Pistacchio | Runigo App - your perfect running route
+
+Stworzyliśmy Runigo - aplikację dla osób, które biegają i podróżują. Czy to turystycznie czy biegowo. Szybki wypad po trasie terenowej blisko Twojego hotelu? A może wizyta w centrum połączona ze zwiedzaniem wielu zabytków? A może coś całkiem innego i szukasz spokoju w górach? Jeśli tak, to pokochasz Runigo. Runigo pomaga znaleźć Twoją idealną trasę biegową w oparciu o Twoje preferencje. Po wybraniu długości trasy, preferowanej nawierzchni i rodzaju trasy, nasz algorytm przedstawi Ci najlepsze propozycje tras. Dzięki nam odkryjesz bieganie o zwiedzania na nowo. A po przebiegnięciu trasy otrzymasz odznakę z procentowym zmapowaniem danego miasta, zbierzesz swoje Osiągnięcia z ilością odwiedzony interesujących obiektów i dowiesz się ile Ci jeszcze pozostało. Dodatkowo znajdziesz się na tabeli wyników gdzie porównasz się z innymi użytkownikami w Twojej kategorii wiekowej i… wagowej. Runigo - wszystkie trasy turystyczne w Twoim telefonie.
